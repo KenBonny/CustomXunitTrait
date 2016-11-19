@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CustomXunitTrait.Business")]
+[assembly: AssemblyTitle("CustomXunitTrait.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CustomXunitTrait.Business")]
+[assembly: AssemblyProduct("CustomXunitTrait.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -19,7 +19,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("027e735a-b3ad-48f7-b8e8-43cc1f9578b3")]
+[assembly: Guid("d3fc458e-836d-4737-82d5-5214143cc6a5")]
 
 // Version information for an assembly consists of the following four values:
 //
