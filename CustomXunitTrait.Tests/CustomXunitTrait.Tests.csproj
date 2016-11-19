@@ -57,8 +57,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DossierCreatedTimeTests.cs" />
+    <Compile Include="Infrastructure\CategoryAttribute.cs" />
     <Compile Include="Infrastructure\CategoryDiscoverer.cs" />
     <Compile Include="Infrastructure\ComponentCategoryAttribute.cs" />
+    <Compile Include="Infrastructure\EndToEndCategoryAttribute.cs" />
     <Compile Include="Infrastructure\TestCaseAttribute.cs" />
     <Compile Include="Infrastructure\TestCaseDiscoverer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
